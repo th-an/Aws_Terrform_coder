@@ -1,0 +1,5 @@
+{
+  "name": "Terraform AWS Learner",
+  "description": "An interactive web application designed to help users learn AWS Terraform by generating configurations and providing detailed explanations using AI.",
+  "requestFramePermissions": []
+}
